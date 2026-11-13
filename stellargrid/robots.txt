@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /dark.html
+
+Sitemap: https://stellargrid.in/sitemap.xml
